@@ -79,7 +79,7 @@ Throught our <geosys/> platform, we make geospatial analytics easily accessible 
 
 We have a team of experts around the world that understand local crops and ag industry, as well as advanced analytics to support your business.
 
-The &ltgeosys/&gt picture library is a set of illustrations and screenshots from and related with EarthDaily Agro service portfolio that can be freely use to ease deck, online publication and content creation.
+The <geosys/> picture library is a set of illustrations and screenshots from and related with EarthDaily Agro service portfolio that can be freely use to ease deck, online publication and content creation.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
