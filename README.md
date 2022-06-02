@@ -16,7 +16,7 @@
   <h1 align="center">EarthDaily Agro picture library</h3>
 
   <p align="center">
-    Source of freely usable pictures and illustration on &ltgeosys/&gt.
+    Source of freely usable pictures and illustration on &ltgeosys/&gt services.
     <br />
     <a href="https://earthdailyagro.com/"><strong>Who we are</strong></a>
     <br />
@@ -75,11 +75,16 @@ EarthDaily Agro is the agricultural analysis division of EartDaily Analytics. Le
   </a>
 </p>
 
-Throught our <geosys/> platform, we make geospatial analytics easily accessible for you to be browsed or analyzed, within our cloud or within your own environment. We provide developers and data scientists both flexibility and extensibility with analytic ready data and digital agriculture ready development blocks. We empower your team to enrich your systems with information at the field, regional or continent level via our API or Apps.
+ <p align="left">
+Throught our &ltgeosys/&gt platform, we make geospatial analytics easily accessible for you to be browsed or analyzed, within our cloud or within your own environment. We provide developers and data scientists both flexibility and extensibility with analytic ready data and digital agriculture ready development blocks. We empower your team to enrich your systems with information at the field, regional or continent level via our API or Apps.
+</p>
 
 We have a team of experts around the world that understand local crops and ag industry, as well as advanced analytics to support your business.
 
-The <geosys/> picture library is a set of illustrations and screenshots from and related with EarthDaily Agro service portfolio that can be freely use to ease deck, online publication and content creation.
+<p align="left">
+&ltgeosys/&gt picture library is a set of illustrations and screenshots from and related with EarthDaily Agro service portfolio that can be freely use to ease deck, online publication and content creation.
+</p>
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
